@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0pdWmpJlMct2kEZxqv2ih7iv2Z82VQY3LUKGmCFkANdbq9CUF7iP3NvcTG6IjnBFZ+w5GQ7knwaLGxZJQKBSYw==",
+  "dgSpecHash": "LhbMJtTPKjhJJh4g2EYPAyCTitJicP2sdqpagQarHlAJliyu0uyLxs0Rd6yKEFIsr1VWmGeF/ntBj27hEbckqg==",
   "success": true,
   "projectFilePath": "C:\\workspaces\\microservice\\StoreVision\\src\\BuildingBooks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eldem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\eldem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
